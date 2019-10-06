@@ -1,0 +1,11 @@
+{
+  "name": "webcrawler-arezzo",
+  "version": "1.0.0",
+  "description": "webcrawler arezzo",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
