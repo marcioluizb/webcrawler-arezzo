@@ -5,6 +5,7 @@ Webcrawler para pegar todas as urls de sapatos da loja arezzo.
 
 ### Instalação
 Instale nodejs https://nodejs.org/en/
+
 Instale o yarn https://yarnpkg.com/pt-BR/
 
 ### Faça o clone do repositório
@@ -20,6 +21,8 @@ $ yarn install
 ```
 $ node index.js
 ```
+
+Após executar o comando, será criado na pasta do projeto o arquivo arezzo.txt com as urls de todos os produtos da categoria sapatos do site.
 
 License
 ----
